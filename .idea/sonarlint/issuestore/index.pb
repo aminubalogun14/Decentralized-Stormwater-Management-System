@@ -9,3 +9,5 @@ Z
 *tests/infrastructure-registraction.test.ts,f/a/fa8d7e9d307ca2eb79ffb036064d35c13f4a54ab
 S
 #contracts/inspection-tractking.clar,5/8/582a328b8f88f1bd78387ef2c965fa06896e21bc
+U
+%contracts/performance-monitoring.clar,6/a/6abd1e863a9015c731f2832790450db5e880310f
