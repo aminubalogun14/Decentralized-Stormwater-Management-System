@@ -7,3 +7,5 @@
 +contracts/infrastructure-registraction.clar,9/a/9a272af04b22bc588bb15c0d019b0ca815745784
 Z
 *tests/infrastructure-registraction.test.ts,f/a/fa8d7e9d307ca2eb79ffb036064d35c13f4a54ab
+S
+#contracts/inspection-tractking.clar,5/8/582a328b8f88f1bd78387ef2c965fa06896e21bc
